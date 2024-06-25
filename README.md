@@ -113,7 +113,7 @@ set OPENAI_API_KEY=your_openai_api_key
 ### Screenshots
 
 #### Home Page
-![Home Page](images/homepage.png)
+![Home Page]!(https://github.com/nandu1331/AI-Blog-Generator/assets/116256681/ee1ec094-a9e6-46b6-a39f-3f1b9fdc07eb)
 
 #### Dashboard
 ![Dashboard](images/dashboard.png)
