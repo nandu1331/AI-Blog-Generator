@@ -115,12 +115,11 @@ set OPENAI_API_KEY=your_openai_api_key
 #### Home Page
 ![Home-Page ](https://github.com/nandu1331/AI-Blog-Generator/assets/116256681/80d771eb-5390-4285-8f96-69d157b7cca2)
 
-
 #### Dashboard
-![Dashboard](images/dashboard.png)
+![Blog Generation ](https://github.com/nandu1331/AI-Blog-Generator/assets/116256681/053b5f08-5f8b-4711-990d-74f54406df8a)
 
 #### New Blog Post
-![New Blog Post](images/new_blog_post.png)
+![Blog Details ](https://github.com/nandu1331/AI-Blog-Generator/assets/116256681/15d57d5f-a99b-4b86-a2b7-80d35ead8119)
 
 ## How It Works
 
